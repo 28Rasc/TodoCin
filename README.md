@@ -3,8 +3,21 @@
 <h1 align="center"> TodoCIn <h1>
 
 ## Descrição:
-<p>Projeto da disciplina Fundamentos do Processo Ágil de Desenvolvimento de Software, compreende a especificação, planejamento e projeto de um desenvolvimento de um produto/serviço de software.<p>
+<p>Projeto da disciplina Fundamentos do Processo Ágil de Desenvolvimento de Software; <br /> Compreende a especificação, planejamento e projeto de um desenvolvimento de um produto/serviço de software.<p>
 
+#
+#
+
+## Artefatos:
+
+[Business Model Canvas]
+<br />
+[Product Model Canvas]
+<br />
+[Protótipo]
+
+#
+#
 
 ### Colaboradores:
 
