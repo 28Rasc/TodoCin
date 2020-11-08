@@ -19,10 +19,10 @@
 Menu de conteúdos
 =================
 <!--ts-->
-   * [Descrição](#Descrição)
-   * [Artefatos](#Artefatoso)
-   * [Tecnologias e Ferramentaso](#Tecnologias-e-Ferramentas)
-   * [Colaboradores](#Colaboradoresr)
+   * [Descrição](#📄-Descrição)
+   * [Artefatos](#📂-Artefatos)
+   * [Tecnologias e Ferramentaso](#💻🔧-tecnologias-e-Ferramentas)
+   * [Colaboradores](#👊-Colaboradores)
 <!--te-->
 &nbsp;
 
@@ -35,24 +35,24 @@ Menu de conteúdos
 
 &nbsp;
 #
-## Descrição:
+## 📄 Descrição:
 <p>Projeto da disciplina Fundamentos do Processo Ágil de Desenvolvimento de Software; <br /> Compreende a especificação, planejamento e projeto de um desenvolvimento de um produto/serviço de software.<p>
 
 #
 #
 
-## 📂 Artefatos
+## 📂 Artefatos:
 
-- [Business Model Canvas]()
-- [Product Model Canvas]()
-- [Protótipo]()
+- [Business Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Business%20Model%20Canvas%20v1.pdf)
+- [Product Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Project%20Model%20Canvas%20-%20My%20Flow%20-%20A%20To%20do%20List%20application.png)
+- [Protótipo](https://github.com/28Rasc/TodoCin/tree/main/Artefatos/Prot%C3%B3tipo)
 - [User story](https://docs.google.com/spreadsheets/d/1w6ie1Jk8YobnnBA-XYN7AtGt7mHJ9QJYFq2GxHluB5k/edit?usp=sharing)
 
 #
 #
 
 
-### 💻🔧 Tecnologias e Ferramentas
+### 💻🔧 Tecnologias e Ferramentas:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #
 #
 
-### Colaboradores:
+### 👊 Colaboradores:
 
 <table>
   <tr>
