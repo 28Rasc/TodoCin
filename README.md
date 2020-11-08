@@ -1,7 +1,13 @@
 ![alt text](https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png)
+#
+&nbsp;
 
 
-<img style="align = center;" src="https://user-images.githubusercontent.com/32085246/98466691-f21e5680-21af-11eb-8edc-47339d819d4c.jpeg" width="100px;" alt="Logo My Flow"/>
+&nbsp;
+<div align="center">
+ <img style="align-center;" src="https://user-images.githubusercontent.com/32085246/98466691-f21e5680-21af-11eb-8edc-47339d819d4c.jpeg" width="150px;" alt="Logo My Flow"/>
+ </div>
+
 &nbsp;
 
 
@@ -9,12 +15,8 @@
 
 
 &nbsp;
-
-
-&nbsp;
-
-
-Conteúdos
+#
+Menu de conteúdos
 =================
 <!--ts-->
    * [Descrição](#Descrição)
@@ -32,10 +34,6 @@ Conteúdos
 
 
 &nbsp;
-
-
-&nbsp;
-
 #
 ## Descrição:
 <p>Projeto da disciplina Fundamentos do Processo Ágil de Desenvolvimento de Software; <br /> Compreende a especificação, planejamento e projeto de um desenvolvimento de um produto/serviço de software.<p>
