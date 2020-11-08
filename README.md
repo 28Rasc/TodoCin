@@ -1,11 +1,15 @@
-![alt text](https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png)
+
+<div align="right">
+ <img src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png" width="300px;" alt="Logo CInUFPE"/>
+ </div>
+
 #
 &nbsp;
 
 
 &nbsp;
 <div align="center">
- <img style="align-center;" src="https://user-images.githubusercontent.com/32085246/98466691-f21e5680-21af-11eb-8edc-47339d819d4c.jpeg" width="150px;" alt="Logo My Flow"/>
+ <img src="https://user-images.githubusercontent.com/32085246/98466691-f21e5680-21af-11eb-8edc-47339d819d4c.jpeg" width="150px;" alt="Logo My Flow"/>
  </div>
 
 &nbsp;
