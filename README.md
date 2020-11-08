@@ -1,25 +1,72 @@
 ![alt text](https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png)
+#
+&nbsp;
 
-<h1 align="center"> TodoCIn <h1>
 
-## Descrição:
+&nbsp;
+<div align="center">
+ <img style="align-center;" src="https://user-images.githubusercontent.com/32085246/98466691-f21e5680-21af-11eb-8edc-47339d819d4c.jpeg" width="150px;" alt="Logo My Flow"/>
+ </div>
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+#
+Menu de conteúdos
+=================
+<!--ts-->
+   * [Descrição](#📄-Descrição)
+   * [Artefatos](#📂-Artefatos)
+   * [Tecnologias e Ferramentaso](#💻🔧-tecnologias-e-Ferramentas)
+   * [Colaboradores](#👊-Colaboradores)
+<!--te-->
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+#
+## 📄 Descrição:
 <p>Projeto da disciplina Fundamentos do Processo Ágil de Desenvolvimento de Software; <br /> Compreende a especificação, planejamento e projeto de um desenvolvimento de um produto/serviço de software.<p>
 
 #
 #
 
+<<<<<<< HEAD
 ## Artefatos:m
+=======
+## 📂 Artefatos:
 
-[Business Model Canvas]()
-<br />
-[Product Model Canvas]()
-<br />
-[Protótipo]()
+- [Business Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Business%20Model%20Canvas%20v1.pdf)
+- [Product Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Project%20Model%20Canvas%20-%20My%20Flow%20-%20A%20To%20do%20List%20application.png)
+- [Protótipo](https://github.com/28Rasc/TodoCin/tree/main/Artefatos/Prot%C3%B3tipo)
+- [User story](https://docs.google.com/spreadsheets/d/1w6ie1Jk8YobnnBA-XYN7AtGt7mHJ9QJYFq2GxHluB5k/edit?usp=sharing)
 
 #
 #
 
-### Colaboradores:
+
+### 💻🔧 Tecnologias e Ferramentas:
+
+As seguintes ferramentas foram usadas na construção do projeto:
+>>>>>>> raul
+
+- [Corel Draw](https://www.coreldraw.com/br/product/coreldraw/?segid=perp&topnav=false&sourceid=cdgs2020-xx-ppc_brkws-emea&x-vehicle=ppc_brkws&gclid=CjwKCAiAqJn9BRB0EiwAJ1SztVYHH1gsyd609tTEZ229ih9MMDD00uwmmo7dAbBJzpk_z0poTaE0NBoCW_gQAvD_BwE)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+
+#
+#
+
+### 👊 Colaboradores:
 
 <table>
   <tr>
