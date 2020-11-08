@@ -25,7 +25,7 @@ Menu de conteúdos
 <!--ts-->
    * [Descrição](#📄-Descrição)
    * [Artefatos](#📂-Artefatos)
-   * [Tecnologias e Ferramentaso](#💻🔧-tecnologias-e-Ferramentas)
+   * [Tecnologias e Ferramentas](#💻🔧-tecnologias-e-Ferramentas)
    * [Colaboradores](#👊-Colaboradores)
 <!--te-->
 &nbsp;
