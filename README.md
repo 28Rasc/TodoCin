@@ -23,10 +23,10 @@
 Menu de conteúdos
 =================
 <!--ts-->
-   * [Descrição](#📄-Descrição)
-   * [Artefatos](#📂-Artefatos)
-   * [Tecnologias e Ferramentas](#💻🔧-tecnologias-e-Ferramentas)
-   * [Colaboradores](#👊-Colaboradores)
+   * [Descrição](#-descrição)
+   * [Artefatos](#-artefatos)
+   * [Tecnologias e Ferramentas](#-tecnologias-e-Ferramentas)
+   * [Colaboradores](#-colaboradores)
 <!--te-->
 &nbsp;
 
