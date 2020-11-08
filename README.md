@@ -41,9 +41,6 @@ Menu de conteúdos
 #
 #
 
-<<<<<<< HEAD
-## Artefatos:m
-=======
 ## 📂 Artefatos:
 
 - [Business Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Business%20Model%20Canvas%20v1.pdf)
@@ -58,7 +55,6 @@ Menu de conteúdos
 ### 💻🔧 Tecnologias e Ferramentas:
 
 As seguintes ferramentas foram usadas na construção do projeto:
->>>>>>> raul
 
 - [Corel Draw](https://www.coreldraw.com/br/product/coreldraw/?segid=perp&topnav=false&sourceid=cdgs2020-xx-ppc_brkws-emea&x-vehicle=ppc_brkws&gclid=CjwKCAiAqJn9BRB0EiwAJ1SztVYHH1gsyd609tTEZ229ih9MMDD00uwmmo7dAbBJzpk_z0poTaE0NBoCW_gQAvD_BwE)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
