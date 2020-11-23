@@ -52,6 +52,7 @@ Menu de conteúdos
 - [Protótipo](https://github.com/28Rasc/TodoCin/tree/main/Artefatos/Prot%C3%B3tipo)
 - [User story](https://docs.google.com/spreadsheets/d/1w6ie1Jk8YobnnBA-XYN7AtGt7mHJ9QJYFq2GxHluB5k/edit?usp=sharing)
 - [Tecnologias do App](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Tecnologias%20-%20My%20Flow.pdf)
+- [Backlog + Estimativa do Planning Poker](https://github.com/28Rasc/TodoCin/tree/main/Artefatos/PlanningPoker-Backlog)
 
 #
 #
