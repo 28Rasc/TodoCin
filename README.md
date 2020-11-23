@@ -47,8 +47,8 @@ Menu de conteúdos
 
 ## 📂 Artefatos:
 
-- [Business Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Business%20Model%20Canvas%20v1.pdf)
-- [Product Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Project%20Model%20Canvas%20-%20My%20Flow%20-%20A%20To%20do%20List%20application.png)
+- [Business Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Canvas/Business%20Model%20Canvas%20v1.pdf)
+- [Product Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Canvas/Project%20Model%20Canvas%20-%20My%20Flow%20-%20A%20To%20do%20List%20application.png)
 - [Protótipo](https://github.com/28Rasc/TodoCin/tree/main/Artefatos/Prot%C3%B3tipo)
 - [User story](https://docs.google.com/spreadsheets/d/1w6ie1Jk8YobnnBA-XYN7AtGt7mHJ9QJYFq2GxHluB5k/edit?usp=sharing)
 - [Tecnologias do App](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Tecnologias%20-%20My%20Flow.pdf)
@@ -63,6 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Corel Draw](https://www.coreldraw.com/br/product/coreldraw/?segid=perp&topnav=false&sourceid=cdgs2020-xx-ppc_brkws-emea&x-vehicle=ppc_brkws&gclid=CjwKCAiAqJn9BRB0EiwAJ1SztVYHH1gsyd609tTEZ229ih9MMDD00uwmmo7dAbBJzpk_z0poTaE0NBoCW_gQAvD_BwE)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Tecnologias do App](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Tecnologias%20-%20My%20Flow.pdf)
 
 #
 #
