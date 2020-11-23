@@ -46,7 +46,8 @@ Menu de conteúdos
 #
 
 ## 📂 Artefatos:
-
+- [CONCLUSÂO MVP](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/ConclusaoMVP/conclusao_MVP.pdf)
+#
 - [Business Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Canvas/Business%20Model%20Canvas%20v1.pdf)
 - [Product Model Canvas](https://github.com/28Rasc/TodoCin/blob/main/Artefatos/Canvas/Project%20Model%20Canvas%20-%20My%20Flow%20-%20A%20To%20do%20List%20application.png)
 - [Protótipo](https://github.com/28Rasc/TodoCin/tree/main/Artefatos/Prot%C3%B3tipo)
