@@ -40,7 +40,7 @@ Menu de conteúdos
 &nbsp;
 #
 ## 📄 Descrição:
-<p>Projeto da disciplina: Fundamentos do Processo Ágil de Desenvolvimento de Software; <br /> Compreende a especificação, planejamento e projeto de um desenvolvimento de um produto/serviço de software.<p>
+<p>Projeto da disciplina: Fundamentos do Processo Ágil de Desenvolvimento de Software; <br /> Compreende a especificação, planejamento do desenvolvimento e projeto de um produto/serviço de software.<p>
 
 #
 #
